@@ -1,5 +1,5 @@
 package practice1;
-
+/*
 public class Practice1_Area {
 
 	public static void main(String[] args) {
@@ -21,3 +21,18 @@ public class Practice1_Area {
 	}
 
 }
+*/
+public class Practice1_Area
+{
+
+	public static void main(String[] args) 
+	{
+
+		int A = 0xA5;
+		int B = 0x3F;
+        System.out.println( "A+B = " + (A + B) ); 
+        System.out.println( "A&B = " + (A & B) );
+
+    }
+}
+//印出十進位計算結果 //印出十進位計算結果
